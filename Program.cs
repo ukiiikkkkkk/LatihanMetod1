@@ -1,31 +1,31 @@
-﻿int a = 10, b = 2, c = 0;
+﻿int c = 0;
 
-void tambah()
+void tambah(int a, int b)
 {
     c = a + b;
     Console.WriteLine($"{a} + {b} = {c}");
 }
 
-void kurang()
+void kurang(int a, int b)
 {
-    c = a + b;
+    c = a - b;
     Console.WriteLine($"{a} - {b} = {c}");
 }
 
-void kali()
+void kali(int a, int b)
 {
-    c = a + b;
+    c = a * b;
     Console.WriteLine($"{a} * {b} = {c}");
 }
 
-void bagi()
+void bagi(int a, int b)
 {
-    c = a + b;
+    c = a / b;
     Console.WriteLine($"{a} / {b} = {c}");
 }
 
-tambah();
-kurang();
-tambah();
-kali();
-bagi();
+tambah(5, 3);
+kurang(9, 3);
+tambah(10, 5);
+kali(9, 5);
+bagi(16, 2);
