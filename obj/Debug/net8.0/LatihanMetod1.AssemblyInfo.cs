@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LatihanMetod1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d592556d5fe1e8ffd9ca94570958668b6ac93dd0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LatihanMetod1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LatihanMetod1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
